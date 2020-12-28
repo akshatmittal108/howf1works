@@ -1,25 +1,12 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2020-12-25 14:50:21 +0530
+title: Introduction
+date: 2020-12-25 14:50:21 +0530
 categories: jekyll update
+thumbnail: ""
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Formula 1 is the pinnacle of motorsport where the best drivers compete. It's a sport where the person who is behind the wheel matters as much as the car underneath him. It's a sport where man and machine operate in harmony. 
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+Being at the pinnacle of motorsport brings high stakes - both physical as well as financial. With cars racing at more than 300 km per hour and engineers pushing the limits of technology, strict safety protocols are needed for the safety of drivers. Also, technology doesn't come cheap, with millions being invested to gain a tenth of a second on the track, there are huge financial implications on the results (as prize money is distributed based on results). Hence strict rules govern the sport of formula 1. With sport being played as much on track as off-track, understanding the nuances of formula 1 could take some time. This book is a step in that direction to unravel the subtleties of formula 1 which makes it so exciting and have such a passionate fanbase.
 
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+There is nothing better than reading this book on a race week (yeah, that's the term which is used to denote the week in which the race is gonna be held) and follow along.  Let's dive into the world of formula one.
