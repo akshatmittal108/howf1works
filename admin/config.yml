@@ -7,7 +7,7 @@ media_folder: 'assets/uploads'
 collections:
   - name: 'post'
     label: 'Post'
-    folder: 'how-f1-works/_posts/'
+    folder: '_posts/'
     create: true # Allow users to create new documents in this collection
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template i.e. YYYY-MM-DD-title.md
     fields:
